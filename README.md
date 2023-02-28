@@ -2,7 +2,7 @@
 Poster presented at ELLIS Workshop - Machine Learning for Molecule Discovery.
 <p align="center">
   <a>
-    <img src="github/Ellis.png" alt="PosterEllis" width=300 height=140>
+    <img src="Ellis.png" alt="PosterEllis" width=300 height=140>
   </a>
 
   <p align="center">
