@@ -1,8 +1,6 @@
-# ELLIS_ML4MoleculeDiscovery_Manuscript
-Poster presented at ELLIS Workshop - Machine Learning for Molecule Discovery.
 <p align="center">
   <a>
-    <img src="Ellis.png" alt="PosterEllis" width=300 height=140>
+    <img src="Ellis.png" alt="PosterEllis">
   </a>
 
   <p align="center">
